@@ -67,6 +67,7 @@
 - Worked 
 
 **B612 Partnerships**
-- Over 300M downloads globally, B612 
+- Over 300M downloads globally, B612
+- b612 파트너십, vogue, warner brothers, dasha, 춤추는애, miyavlog, 미국 유투버 (위워크), ㅌㅇ, 
 
 
