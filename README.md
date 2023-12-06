@@ -9,7 +9,7 @@
 IESEG School of Business
 
 ## Work Experience
-**LINE PLus Corp (Seongnam, Korea)**
+**LINE PLus Corp (Seongnam, Korea)**  
 **Product Growth and Marketing Manager (2021. May - Present)**
 - Led growth marketing campaigns for LINE OpenChat and LINE Profile Studio
 -	Developed annual growth strategy and executed growth initiatives to maximize new user acquisitions by implementing campaigns for each segmented user groups
@@ -17,7 +17,7 @@ IESEG School of Business
 -	Recorded an average of 21% increase in monthly active users by launching campaigns,  such as "Back to School", "Quiz Fairy" and "Personality Tests", resulting in an impressive growth of over 300K active users
 -	Collaborated closely with cross-functional teams in Korea, Japan, Taiwan and Thailand, establishing streamlined workflows and delivering user insights and market perspectives to the product team based in Korea
 
-**Poolus, PurpleM / Seoul, Korea**
+**Poolus, PurpleM / Seoul, Korea**  
 **Business Development Lead (2020. Jun - 2021. Mar)**
 -	Led business development for PurpleM (a joint venture between KIA and 42dot  (Team acquisition from Poolus to Purple M))
 -	Led the formulation of a comprehensive business plan and conducted market research for an e-mobility service, successfully securing seed round funding
