@@ -52,5 +52,13 @@
 -	Orchestrated questionnaire design and moderated focus group interviews in Egypt, UAE, and Iran 
 
 
-
 ### Projects
+
+**AI Profile Studio**
+
+**WeWork Creator Awards**
+
+**B612 Partnerships**
+
+
+
