@@ -1,12 +1,8 @@
 # Growth Marketer
 
 ## Education
-- School of Business 2007 - 2014 Hanyang University Seoul, Korea
-
-- Business Administration 2012
-- IESEG School of Management Lille, France
-
-IESEG School of Business
+- Hanyang University Seoul, Korea (Aug 2014)  
+- IESEG School of Management Lille, France (Dec 2012)  
 
 ## Work Experience
 **LINE PLus Corp / Seongnam, Korea**  
