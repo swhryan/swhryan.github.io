@@ -42,16 +42,16 @@ IESEG School of Business
 -	Collaborated with product managers on product localization, feature prioritization, UX optimization, and new feature development
 -	Led market research and gathered local insights to guide product improvements
 -	Executed launch campaign by migrating 50 existing communities in Jakarta and Bandung
--	Established operational processes for content management and led performance marketing campaigns
+-	Established operational processes for content management and led performance marketing campaigns  
 **'B612' and 'Looks' Marketing Manager / 2016. Jan ~ 2017. Mar**  
 -	Oversaw the marketing of LINE's camera services in multiple regions (Korea, Thailand, Indonesia and Taiwan)
 -	Executed a $2M self-served performance campaign(FB, IG, Twitter), creating 40+ creatives with in-house team, achieving $0.4 CPI and 5M downloads in 2~3 months
 -	Collaborated with local marketing teams and bridging communication between HQ and regional offices
 -	Worked closely with local marketing teams on delivering local needs to the HQ and set up work processes between HQ office and regional
--	Forged partnerships with prestigious brands such as Warner Brothers and Vogue Taiwan to develop brand filters
+-	Forged partnerships with prestigious brands such as Warner Brothers and Vogue Taiwan to develop brand filters  
 **'Raven' ATL Marketing Manager / 2015. April ~ 2016. Jan**  
 -	Contributed to marketing initiatives for the mobile game 'Raven', a collaborative project between Naver and Netmarble
--	Collaborated closely with a media agency on a $13M IMC campaign by creating TVC, OOH and digital featuring Chaseung Won and Sunkyung Lee
+-	Collaborated closely with a media agency on a $13M IMC campaign by creating TVC, OOH and digital featuring Chaseung Won and Sunkyung Lee  
 **'LINE Messenger' Marketing Manager/ 2014 Aug ~ 2015. April**  
 -	Contributed to LINE messenger's user acquisition campaigns in the Middle East (Turkey, Egypt, UAE, Iran)
 -	Oversaw Dubai-based agency for Pan-Arab TVC campaign and led PPL efforts on the top-rated Beyaz Show in Turkey
