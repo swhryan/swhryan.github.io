@@ -1,4 +1,4 @@
- # Growth Marketer
+# Growth Marketer
 
 ### Education
 
