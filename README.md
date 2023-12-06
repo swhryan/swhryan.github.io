@@ -4,6 +4,12 @@
 - Hanyang University / Seoul, Korea (Aug 2014)  
 - IESEG School of Management / Lille, France (Dec 2012)  
 
+## Expertise
+
+- Performance Marketing
+- TVC, OOH, Billboard Ads
+- Partnerships
+
 ## Work Experience
 **LINE PLus Corp / Seongnam, Korea**  
 **Product Growth and Marketing Manager / 2021. May - Present**
@@ -55,10 +61,12 @@
 ### Projects
 
 **AI Profile Studio**
+- ㄲ 
 
 **WeWork Creator Awards**
+- Worked 
 
 **B612 Partnerships**
-
+- Over 300M downloads globally, B612 
 
 
