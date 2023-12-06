@@ -27,6 +27,36 @@ IESEG School of Business
 -	Set/defined KPI, conducted partnership development, P&L projections and operational logistics (driver / vehicle sourcing, parking and CS guidelines) 
 
 **WeWork / Seoul Korea**
-Performance Marketing Manager / 2018. Feb - 2019 Ju
+**Performance Marketing Manager (2018. Feb - 2019 Jul)**
+-	Devised and executed digital marketing strategy, boosting lead quality and elevating brand awareness for WeWork's expansion in Korea especially for B2B clients
+-	Closely worked with digital marketing agency guiding on objectives, setting KPIs, analyzing performance, managing budget and optimization for the overall campaign
+-	Increased the contribution of digital channels to WeWork's desk sales from 30% to 50% of total sales
+-	Worked with copywriters, brand marketers, and creative team to define value propositions, craft key slogans, and optimize landing pages through data-driven insights
+-	Successfully hosted the WeWork global marketing event, “Creator Awards” in Seoul with the highest applications in Asia with over 1K+ submissions through effective digital campaigns in collaboration with Taeyong, Passion Oil and Daehak Naeil
+
+**LINE Plus Corp / Seongnam, Korea**  
+**Project Marketing Manager / 2014. Aug - 2018 Feb**
+
+**Open Chat' Marketing Manager / 2017. April ~ 2018. Feb**
+-	Led the project launch of 'LINE OpenChat' in Indonesia
+-	Collaborated with product managers on product localization, feature prioritization, UX optimization, and new feature development
+-	Led market research and gathered local insights to guide product improvements
+-	Executed launch campaign by migrating 50 existing communities in Jakarta and Bandung
+-	Established operational processes for content management and led performance marketing campaigns
+•	'B612' and 'Looks' Marketing Manager / 2016. Jan ~ 2017. Mar
+-	Oversaw the marketing of LINE's camera services in multiple regions (Korea, Thailand, Indonesia and Taiwan)
+-	Executed a $2M self-served performance campaign(FB, IG, Twitter), creating 40+ creatives with in-house team, achieving $0.4 CPI and 5M downloads in 2~3 months
+-	Collaborated with local marketing teams and bridging communication between HQ and regional offices
+-	Worked closely with local marketing teams on delivering local needs to the HQ and set up work processes between HQ office and regional
+-	Forged partnerships with prestigious brands such as Warner Brothers and Vogue Taiwan to develop brand filters
+•	'Raven' ATL Marketing Manager / 2015. April ~ 2016. Jan
+-	Contributed to marketing initiatives for the mobile game 'Raven', a collaborative project between Naver and Netmarble
+-	Collaborated closely with a media agency on a $13M IMC campaign by creating TVC, OOH and digital featuring Chaseung Won and Sunkyung Lee
+•	'LINE Messenger' Marketing Manager/ 2014 Aug ~ 2015. April
+-	Contributed to LINE messenger's user acquisition campaigns in the Middle East (Turkey, Egypt, UAE, Iran)
+-	Oversaw Dubai-based agency for Pan-Arab TVC campaign and led PPL efforts on the top-rated Beyaz Show in Turkey
+-	Orchestrated questionnaire design and moderated focus group interviews in Egypt, UAE, and Iran 
+
+
 
 ### Projects
