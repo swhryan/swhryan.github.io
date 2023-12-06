@@ -17,7 +17,16 @@ IESEG School of Business
 -	Recorded an average of 21% increase in monthly active users by launching campaigns,  such as "Back to School", "Quiz Fairy" and "Personality Tests", resulting in an impressive growth of over 300K active users
 -	Collaborated closely with cross-functional teams in Korea, Japan, Taiwan and Thailand, establishing streamlined workflows and delivering user insights and market perspectives to the product team based in Korea
 
-**Poolus, PurpleM / Seoul, Korea
-Business Development Lead / 2019. Jul - 2021 Mar
+**Poolus, PurpleM / Seoul, Korea**
+**Business Development Lead (2020. Jun - 2021. Mar)**
+-	Led business development for PurpleM (a joint venture between KIA and 42dot  (Team acquisition from Poolus to Purple M))
+-	Led the formulation of a comprehensive business plan and conducted market research for an e-mobility service, successfully securing seed round funding
+**Business Development Lead (2019. Jul - 2020. Jun)**
+-	Led the launch preparation of an on-demand shared ride mobility service
+-	Directed alpha testing (field test) and FGI to evaluate shared riding experiences, collaborating with sourced drivers and riders on various test scenarios
+-	Set/defined KPI, conducted partnership development, P&L projections and operational logistics (driver / vehicle sourcing, parking and CS guidelines) 
+
+**WeWork / Seoul Korea**
+Performance Marketing Manager / 2018. Feb - 2019 Ju
 
 ### Projects
