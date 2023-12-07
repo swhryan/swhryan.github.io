@@ -60,13 +60,15 @@
 
 ### Projects
 
-**AI Profile Studio**
-- ㄲ 
+**Led growth of AI Profile Studio**
+- Overview
 
-**WeWork Creator Awards**
-- Worked 
+**Led WeWork Creator Awards Korea**
+- Contents
+- Performance MKT
+- 
 
-**B612 Partnerships**
+**Led growth of B612**
 - Over 300M downloads globally, B612
 - b612 파트너십, vogue, warner brothers, dasha, 춤추는애, miyavlog, 미국 유투버 (위워크), ㅌㅇ, 
 
