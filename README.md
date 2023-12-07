@@ -58,9 +58,6 @@
 -	Oversaw Dubai-based agency for Pan-Arab TVC campaign and led PPL efforts on the top-rated Beyaz Show in Turkey
 -	Orchestrated questionnaire design and moderated focus group interviews in Egypt, UAE, and Iran 
 
-![dddd](/assets/img/creator.jpeg)
-
-![Creator Awards] /assets/img/creator.jpg
 
 
 ### Projects
@@ -69,9 +66,9 @@
 - Overview  
 
 **Led WeWork Creator Awards Korea**
-- Contents
-- Performance MKT
-- 
+![Creator Awards](/assets/img/creator.jpeg)
+Held in 2019, WeWork Creator Awards was held in Seoul
+
 
 **Led growth of B612**
 - Over 300M downloads globally, B612
