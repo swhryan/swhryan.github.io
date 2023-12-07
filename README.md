@@ -61,7 +61,7 @@
 
 
 
-![Creator Awards] (/assets/img/creator.jpeg)
+![Creator Awards] (/assets/img/creator.jpg)
 
 
 ### Projects
