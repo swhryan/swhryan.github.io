@@ -58,10 +58,9 @@
 -	Oversaw Dubai-based agency for Pan-Arab TVC campaign and led PPL efforts on the top-rated Beyaz Show in Turkey
 -	Orchestrated questionnaire design and moderated focus group interviews in Egypt, UAE, and Iran 
 
+![dddd](/assets/img/creator.jpeg)
 
-
-
-![Creator Awards] (/assets/img/creator.jpg)
+![Creator Awards] /assets/img/creator.jpg
 
 
 ### Projects
