@@ -63,7 +63,7 @@
 
 **Led growth of AI Profile Studio**
 - Overview  
-![Alt text] (/assets/img/Ryan.png)
+![Profile] (/assets/img/Ryan.png)
 
 **Led WeWork Creator Awards Korea**
 - Contents
