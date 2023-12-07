@@ -65,7 +65,7 @@
 - Overview  
 
 **Led WeWork Creator Awards Korea**  
-![Creator Awards](/assets/img/creator.jpeg)  
+![Creator Awards](/assets/img/openchat.png)  
 Led achieving 1,200 pitch participants for WeWork Creator Awards in Korea, one of the highest participants numebers.
 
 
