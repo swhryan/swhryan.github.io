@@ -61,15 +61,14 @@
 
 
 
-![bike_Study] (/assets/img/Ryan.png)
+![Creator Awards] (/assets/img/creator.jpeg)
 
 
 ### Projects
 
 **Led growth of AI Profile Studio**
 - Overview  
-![제목] (/assets/img/Ryan.png)
-/assets/img/Ryan.png
+
 **Led WeWork Creator Awards Korea**
 - Contents
 - Performance MKT
