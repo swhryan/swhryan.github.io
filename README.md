@@ -59,6 +59,11 @@
 -	Orchestrated questionnaire design and moderated focus group interviews in Egypt, UAE, and Iran 
 
 
+
+
+![제목] (/assets/img/Ryan.png)
+
+
 ### Projects
 
 **Led growth of AI Profile Studio**
