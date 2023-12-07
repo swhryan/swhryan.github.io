@@ -64,7 +64,7 @@
 **Led growth of AI Profile Studio**
 - Overview
 logo: /assets/img/creator.png
-
+![Github logo] (/assets/img/creator.png)
 
 **Led WeWork Creator Awards Korea**
 - Contents
