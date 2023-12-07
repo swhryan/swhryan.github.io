@@ -61,7 +61,7 @@
 
 
 
-! [제목] (/assets/img/Ryan.png)
+![bike_Study] (/assets/img/Ryan.png)
 
 
 ### Projects
