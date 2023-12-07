@@ -65,9 +65,9 @@
 **Led growth of AI Profile Studio**
 - Overview  
 
-**Led WeWork Creator Awards Korea**
-![Creator Awards](/assets/img/creator.jpeg)
-Held in 2019, WeWork Creator Awards was held in Seoul
+**Led WeWork Creator Awards Korea**  
+![Creator Awards](/assets/img/creator.jpeg)  
+Led achieving 1,200 pitch participants for WeWork Creator Awards in Korea, one of the highest participants numebers.
 
 
 **Led growth of B612**
