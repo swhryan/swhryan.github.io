@@ -1,8 +1,7 @@
 # Growth Marketer
 
 ## Education
-- Hanyang University
-  - Seoul, Korea (Aug 2014)  
+- Hanyang University / Seoul, Korea (Aug 2014)  
 - IESEG School of Management / Lille, France (Dec 2012)  
 
 ## Expertise
