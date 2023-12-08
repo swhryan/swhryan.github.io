@@ -1,4 +1,7 @@
-# Growth Marketer
+# Growth Marketer  
+
+- Resume (Full Resume)
+- Portfolio  
 
 ## Education
 - Hanyang University / Seoul, Korea (Aug 2014)  
