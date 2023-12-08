@@ -1,6 +1,6 @@
 # Growth Marketer  
 
-- Performance Marketing, Product Marketing, ATL, BTL, Brand Marketing, Growth Marketing
+#### Growth Strategy, Integrated Campaigns, Localization, Performance Marketing, Analytics
 
 ---------  
 
