@@ -2,7 +2,7 @@
 
 #### Skills: Growth Strategy, Integrated Campaigns, Localization, Performance Marketing, Analytics
 
-**[Link to Portfolio](projects.pdf)**
+**[Link to Portfolio](project.pdf)**
 
 
 
