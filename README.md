@@ -1,6 +1,6 @@
 # Growth Marketer  
 
-#### Growth Strategy, Integrated Campaigns, Localization, Performance Marketing, Analytics
+#### Skills: Growth Strategy, Integrated Campaigns, Localization, Performance Marketing, Analytics
 
 [Link to Portfolio](projects.pdf)
 
