@@ -4,11 +4,16 @@
 - Hanyang University / Seoul, Korea (Aug 2014)  
 - IESEG School of Management / Lille, France (Dec 2012)  
 
+---------
+
 ## Expertise
 
 - Performance Marketing
 - TVC, OOH, Billboard Ads
-- Partnerships
+- Partnerships  
+
+---------
+
 
 ## Work Experience
 **LINE PLus Corp / Seongnam, Korea**  
@@ -53,7 +58,7 @@
 -	Oversaw Dubai-based agency for Pan-Arab TVC campaign and led PPL efforts on the top-rated Beyaz Show in Turkey
 -	Orchestrated questionnaire design and moderated focus group interviews in Egypt, UAE, and Iran 
 
-
+---------
 
 ### Projects
 
