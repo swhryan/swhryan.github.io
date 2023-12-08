@@ -48,10 +48,6 @@
 -	Executed a $2M self-served performance campaign(FB, IG, Twitter), creating 40+ creatives with in-house team, achieving $0.4 CPI and 5M downloads in 2months
 -	Forged partnerships with prestigious brands such as Warner Brothers and Vogue Taiwan to develop brand filters  
 
-**'Raven' ATL Marketing Manager / 2015. April ~ 2016. Jan**  
--	Contributed to marketing initiatives for the mobile game 'Raven', a collaborative project between Naver and Netmarble
--	Collaborated closely with a media agency on a $13M IMC campaign by creating TVC, OOH and digital featuring Chaseung Won and Sunkyung Lee  
-
 **'LINE Messenger' Marketing Manager/ 2014 Aug ~ 2015. April**  
 -	Contributed to LINE messenger's user acquisition campaigns in the Middle East (Turkey, Egypt, UAE, Iran)
 -	Oversaw Dubai-based agency for Pan-Arab TVC campaign and led PPL efforts on the top-rated Beyaz Show in Turkey
