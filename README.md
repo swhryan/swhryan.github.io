@@ -1,6 +1,6 @@
 # Growth Marketer  
 
-- Resume (Full Resume)
+[Link to PDF](projects.pdf)
 - Portfolio  
 
 ## Education
