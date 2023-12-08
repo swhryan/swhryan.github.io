@@ -2,9 +2,11 @@
 
 #### Growth Strategy, Integrated Campaigns, Localization, Performance Marketing, Analytics
 
----------  
-
 [Link to Portfolio](projects.pdf)
+
+
+---------
+
 
 ## Education
 - Hanyang University / Seoul, Korea (Aug 2014)  
