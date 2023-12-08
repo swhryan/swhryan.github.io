@@ -1,7 +1,8 @@
 # Growth Marketer  
 
-[Link to PDF](projects.pdf)
-- Portfolio  
+- Performance Marketing, Product Marketing, ATL, BTL, Brand Marketing, Growth Marketing
+
+[Link to Portfolio](projects.pdf)
 
 ## Education
 - Hanyang University / Seoul, Korea (Aug 2014)  
@@ -60,21 +61,5 @@
 -	Contributed to LINE messenger's user acquisition campaigns in the Middle East (Turkey, Egypt, UAE, Iran)
 -	Oversaw Dubai-based agency for Pan-Arab TVC campaign and led PPL efforts on the top-rated Beyaz Show in Turkey
 -	Orchestrated questionnaire design and moderated focus group interviews in Egypt, UAE, and Iran 
-
----------
-
-### Projects
-
-**Led growth of AI Profile Studio**
-- Overview  
-
-**Led WeWork Creator Awards Korea**  
-![Creator Awards](/assets/img/openchat.png)  
-Led achieving 1,200 pitch participants for WeWork Creator Awards in Korea, one of the highest participants numebers.
-
-
-**Led growth of B612**
-- Over 300M downloads globally, B612
-- b612 파트너십, vogue, warner brothers, dasha, 춤추는애, miyavlog, 미국 유투버 (위워크), ㅌㅇ, 
 
 
