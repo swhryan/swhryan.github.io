@@ -2,19 +2,13 @@
 
 - Performance Marketing, Product Marketing, ATL, BTL, Brand Marketing, Growth Marketing
 
+---------  
+
 [Link to Portfolio](projects.pdf)
 
 ## Education
 - Hanyang University / Seoul, Korea (Aug 2014)  
 - IESEG School of Management / Lille, France (Dec 2012)  
-
----------
-
-## Expertise
-
-- Performance Marketing
-- TVC, OOH, Billboard Ads
-- Partnerships  
 
 ---------
 
