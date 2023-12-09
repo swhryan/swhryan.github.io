@@ -3,7 +3,7 @@
 #### I'm Sukwoo Hong, a growth marketer with 9 years of experience  
 
 **[Link to Portfolio](swh_portfolio.pdf)**  
-**[Link to Full Resume](Ryan_Hong(_Resume_).pdf)**
+**[Link to Resume](Ryan_Hong(_Resume_).pdf)**
 
 
 ## Education
