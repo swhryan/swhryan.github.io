@@ -31,7 +31,7 @@
 -	Directed alpha testing (field test) and FGI to evaluate shared riding experiences, collaborating with sourced drivers and riders on various test scenarios
 -	Set/defined KPI, conducted partnership development, P&L projections and operational logistics (driver / vehicle sourcing, parking and CS guidelines) 
 
-**WeWork / Seoul Korea**
+**WeWork / Seoul Korea**  
 **_Performance Marketing Manager / 2018. Feb - 2019. Jul_**  
 -	Devised and executed digital marketing strategy, boosting lead quality and elevating brand awareness for WeWork's expansion in Korea
 -	Increased the contribution of digital channels to WeWork's desk sales from 30% to 50% of total sales
@@ -41,17 +41,17 @@
 **LINE Plus Corp / Seongnam, Korea**  
 **_Global Marketing Manager / 2014. Aug - 2018 Feb_**
 
-**Open Chat' Marketing Manager / 2017. April ~ 2018. Feb**
+**_Open Chat' Marketing Manager / 2017. April ~ 2018. Feb_**  
 -	Led the project launch of 'LINE OpenChat' in Indonesia
 -	Collaborated with product managers on product localization, feature prioritization, UX optimization, and new feature development
 -	Executed launch campaign by migrating 50 existing communities in Jakarta and Bandung  
 
-**'B612' and 'Looks' Marketing Manager / 2016. Jan ~ 2017. Mar**  
+**_'B612' and 'Looks' Marketing Manager / 2016. Jan ~ 2017. Mar_**  
 -	Oversaw the marketing of LINE's camera services in multiple regions (Korea, Thailand, Indonesia and Taiwan)
 -	Executed a $2M self-served performance campaign(FB, IG, Twitter), creating 40+ creatives with in-house team, achieving $0.4 CPI and 5M downloads in 2months
 -	Forged partnerships with prestigious brands such as Warner Brothers and Vogue Taiwan to develop brand filters  
 
-**'LINE Messenger' Marketing Manager/ 2014 Aug ~ 2015. April**  
+**_'LINE Messenger' Marketing Manager/ 2014 Aug ~ 2015. April_**    
 -	Contributed to LINE messenger's user acquisition campaigns in the Middle East (Turkey, Egypt, UAE, Iran)
 -	Oversaw Dubai-based agency for Pan-Arab TVC campaign and led PPL efforts on the top-rated Beyaz Show in Turkey
 -	Orchestrated questionnaire design and moderated focus group interviews in Egypt, UAE, and Iran 
