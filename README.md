@@ -22,7 +22,7 @@
   resulting in an impressive growth of over 300K active users
 
 **Poolus, PurpleM / Seoul, Korea**  
-***Business Development Lead / 2020. Jun - 2021. Mar**
+_Business Development Lead / 2020. Jun - 2021. Mar_  
 -	Led business development for PurpleM (a joint venture between KIA and 42dot  (Team acquisition from Poolus to Purple M))
 -	Led the formulation of a comprehensive business plan and conducted market research for an e-mobility service, successfully securing seed round funding  
 
