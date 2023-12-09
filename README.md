@@ -1,12 +1,9 @@
 # Growth Marketer  
 
-#### Skills: Growth Strategy, Integrated Campaigns, Localization, Performance Marketing, Analytics
+#### I am Sukwoo Hong, growth marketer with 9 year experience 
 
 **[Link to Portfolio](project.pdf)**
-
-
-
-
+**[Link to Portfolio](project.pdf)**
 
 
 ## Education
