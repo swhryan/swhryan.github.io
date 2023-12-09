@@ -1,6 +1,6 @@
 # Growth Marketer  
 
-#### I'm Sukwoo Hong, a growth marketer with nine years of experience in a fast-paced tech company.  
+#### I'm Sukwoo Hong, a growth marketer with 9 years of experience  
 
 **[Link to Portfolio](project.pdf)**  
 **[Link to Full Resume](Ryan_Hong(_Resume_).pdf)**
