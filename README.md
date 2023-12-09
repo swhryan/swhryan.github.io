@@ -2,8 +2,8 @@
 
 #### I am Sukwoo Hong, growth marketer with 9 year experience 
 
-**[Link to Portfolio](project.pdf)**
-**[Link to Portfolio](project.pdf)**
+**[Link to Portfolio](project.pdf)**  
+**[Link to Full Resume](Ryan_Hong(_Resume_).pdf)**
 
 
 ## Education
@@ -39,7 +39,7 @@
   1K+ submissions through effective digital campaigns in collaboration with Taeyong, Passion Oil and Daehak Naeil
 
 **LINE Plus Corp / Seongnam, Korea**  
-**Project Marketing Manager / 2014. Aug - 2018 Feb**
+**Global Marketing Manager / 2014. Aug - 2018 Feb**
 
 **Open Chat' Marketing Manager / 2017. April ~ 2018. Feb**
 -	Led the project launch of 'LINE OpenChat' in Indonesia
