@@ -18,8 +18,7 @@
 **_Product Growth and Marketing Manager / 2021. May - Present_**  
 - Led growth campaigns for LINE OpenChat and LINE Profile Studio
 -	Developed annual growth strategy and executed growth initiatives to maximize new user acquisitions
--	Recorded an average of 21% increase in monthly active users by launching campaigns,  such as "Back to School", "Quiz Fairy" and "Personality Tests",  
-  resulting in an impressive growth of over 300K active users
+-	Recorded an average of 21% increase in monthly active users by launching campaigns,  such as "Back to School", "Quiz Fairy" and "Personality Tests", resulting in an impressive growth of over 300K active users
 
 **Poolus, PurpleM / Seoul, Korea**  
 **_Business Development Lead / 2020. Jun - 2021. Mar_**  
