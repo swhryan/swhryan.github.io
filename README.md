@@ -1,6 +1,6 @@
 # Growth Marketer  
 
-#### I'm Sukwoo Hong, a growth marketer with 9 years of experience  
+#### Experienced Growth Marketer passionate about overcoming challenges through data-driven insights and deep understanding of consumers. Specialzed in performance marketing and GTM strategies for various products for global markets  
 
 **[Link to Portfolio](swh_portfolio.pdf)**  
 **[Link to Resume](Ryan_Hong(_Resume_).pdf)**
