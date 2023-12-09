@@ -15,31 +15,31 @@
 
 ## Work Experience
 **LINE PLus Corp / Seongnam, Korea**  
-***Product Growth and Marketing Manager / 2021. May - Present***
+**_Product Growth and Marketing Manager / 2021. May - Present_**  
 - Led growth campaigns for LINE OpenChat and LINE Profile Studio
 -	Developed annual growth strategy and executed growth initiatives to maximize new user acquisitions
 -	Recorded an average of 21% increase in monthly active users by launching campaigns,  such as "Back to School", "Quiz Fairy" and "Personality Tests",  
   resulting in an impressive growth of over 300K active users
 
 **Poolus, PurpleM / Seoul, Korea**  
-***_Business Development Lead / 2020. Jun - 2021. Mar_***  
+**_Business Development Lead / 2020. Jun - 2021. Mar_**  
 -	Led business development for PurpleM (a joint venture between KIA and 42dot  (Team acquisition from Poolus to Purple M))
 -	Led the formulation of a comprehensive business plan and conducted market research for an e-mobility service, successfully securing seed round funding  
 
-**Business Development Lead /2019. Jul - 2020. Jun**
+**_Business Development Lead /2019. Jul - 2020. Jun_**  
 -	Led the launch of an on-demand shared ride mobility service
 -	Directed alpha testing (field test) and FGI to evaluate shared riding experiences, collaborating with sourced drivers and riders on various test scenarios
 -	Set/defined KPI, conducted partnership development, P&L projections and operational logistics (driver / vehicle sourcing, parking and CS guidelines) 
 
 **WeWork / Seoul Korea**
-**Performance Marketing Manager / 2018. Feb - 2019. Jul**
+**_Performance Marketing Manager / 2018. Feb - 2019. Jul_**  
 -	Devised and executed digital marketing strategy, boosting lead quality and elevating brand awareness for WeWork's expansion in Korea
 -	Increased the contribution of digital channels to WeWork's desk sales from 30% to 50% of total sales
 -	Successfully hosted the WeWork global marketing event, “Creator Awards” in Seoul with the highest applications in Asia with over  
   1K+ submissions through effective digital campaigns in collaboration with Taeyong, Passion Oil and Daehak Naeil
 
 **LINE Plus Corp / Seongnam, Korea**  
-**Global Marketing Manager / 2014. Aug - 2018 Feb**
+**_Global Marketing Manager / 2014. Aug - 2018 Feb_**
 
 **Open Chat' Marketing Manager / 2017. April ~ 2018. Feb**
 -	Led the project launch of 'LINE OpenChat' in Indonesia
