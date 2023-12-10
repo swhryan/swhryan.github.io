@@ -1,6 +1,6 @@
 # Growth Marketer  
 
-#### Experienced Growth Marketer passionate about overcoming challenges through data-driven insights and deep understanding of consumers. Specialzed in performance marketing and creating and executing GTM strategies for diverse products across global markets
+#### Experienced Growth Marketer with a passion for overcoming challenges through data-driven insights. Specializing in performance marketing and executing GTM strategies for diverse global products
 
 **[Link to Portfolio](swh_portfolio.pdf)**  
 **[Link to Resume](Ryan_Hong(_Resume_).pdf)**
