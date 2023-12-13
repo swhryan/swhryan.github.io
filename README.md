@@ -36,6 +36,7 @@
 -	Increased the contribution of digital channels to WeWork's desk sales from 30% to 50% of total sales
 -	Successfully hosted the WeWork global marketing event, “Creator Awards” in Seoul with the highest applications in Asia with over  
   1K+ submissions through effective digital campaigns in collaboration with Taeyong, Passion Oil and Daehak Naeil
+- led partnerships with Meta and Naver for cooperating growth for SMB business by co-hosting events in WeWork  
 
 **LINE Plus Corp / Seongnam, Korea**  
 **_Global Marketing Manager / 2014. Aug - 2018 Feb_**
